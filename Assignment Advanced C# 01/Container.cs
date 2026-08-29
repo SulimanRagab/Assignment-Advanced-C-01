@@ -4,13 +4,13 @@ using System.Text;
 
 namespace Assignment_Advanced_C__01
 {
-    internal class Container<T>
+    internal class Container <T>
     {
-        public T Add(T item)
+        public static T Add(T item)
         {
             return item;
         }
-        public T Get(T item)
+        public static T Get(T item)
         {
             return item;
         }
