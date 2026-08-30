@@ -23,3 +23,17 @@
 // Q5: Write a generic method FindMax<T> that finds maximum value
 //Console.WriteLine(Helper.FindMax<int>(20, 40)); 
 #endregion
+
+#region Q06
+// Q6: What is a generic interface? Write `IRepository<T>`.
+// ال generic interface هو interface  بيستخدم type parameter  بيسمح للميثود التعاملع مع انواع بينات مختلفه type parameterS
+//using Assignment_Advanced_C__01;
+//IRepository<order> or = new OrderRepository();
+//or.Add(new order(1,"ahmed"));
+//or.Add(new order(2,"Sulima"));
+//or.Add(new order(3,"Mohamed"));
+//or.Delete(1);
+//or.printList();
+//or.Delete(3);
+//or.printList(); 
+#endregion
