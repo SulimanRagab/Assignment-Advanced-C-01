@@ -17,3 +17,9 @@
 //int b = 2;
 //Helper.Swap<int>(a, b);
 #endregion
+
+#region Q05
+//using Assignment_Advanced_C__01;
+// Q5: Write a generic method FindMax<T> that finds maximum value
+//Console.WriteLine(Helper.FindMax<int>(20, 40)); 
+#endregion
