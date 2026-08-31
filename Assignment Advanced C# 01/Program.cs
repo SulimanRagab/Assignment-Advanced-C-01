@@ -115,3 +115,11 @@
 // Q13: What does the 'default' keyword do in generics?
 // وظيفة ال default في ال generics  استرجاع القيمه الافتراضيه لكل نوع بيناتdefault(T) 
 #endregion
+
+#region Q14
+//Q14: Write a SafeList<T> that returns default when the index is invalid
+//using Assignment_Advanced_C__01;
+//SafeList<int> number = new SafeList<int>(new int[] {10,20,30});
+//Console.WriteLine(number.Get(2)); // 30 saccessfuly
+//Console.WriteLine(number.Get(10)); // defult 0 
+#endregion
