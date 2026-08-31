@@ -127,3 +127,20 @@
 //Console.WriteLine(String.Get(2)); // "degree" saccessfuly
 //Console.WriteLine(String.Get(10)); // defult null 
 #endregion
+
+#region Q15
+// Q15: What is covariance? Explain the 'out' keyword.
+// ال covariance => out هنا معناها ال Generic Type  بتنتج T مش بيستقبل ببساطه جدا الكود بيطلع حاجه لبرا ReturnوOutput 
+#endregion
+
+#region Q16
+//Q16: What is contravariance? Explain the 'in' keyword.
+// ال contravariance => in عكس ال out يعني ال Generic Type بيستقبل T  
+#endregion
+
+#region Q17
+//Q17: What is the difference between covariance and contravariance?
+//ال Covariance بيمشي ف نفس اتجاه الوراثه من من الابن للأب من derived >> Base output
+// ال Contravariance  بيستقبل T بيمشي عكس اتجاه الوراثه من الاب للأبن Base >> derived
+
+#endregion
