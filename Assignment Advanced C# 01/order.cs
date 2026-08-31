@@ -19,10 +19,10 @@ namespace Assignment_Advanced_C__01
             Name = name;
         }
 
-        public override void print()
-        {
-            Console.WriteLine("print Order Up Class");
-        }
+        //public override void rint()
+        //{
+        //    Console.WriteLine("print Order Up Class");
+        //}
 
         public void Print()
         {

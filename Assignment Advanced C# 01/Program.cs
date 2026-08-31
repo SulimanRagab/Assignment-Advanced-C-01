@@ -162,3 +162,11 @@
 //conter<string>.Increment();
 //Console.WriteLine(conter<string>.count);//6 
 #endregion
+
+#region Q19
+//Q19: How can you inherit from a generic class
+//
+//using Assignment_Advanced_C__01;
+//DerivedClass1 derivedClass1 = new DerivedClass1();
+// derivedClass1.Add(new order(1,"Ali")); 
+#endregion
