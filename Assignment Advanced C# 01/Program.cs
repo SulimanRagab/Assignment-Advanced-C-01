@@ -122,4 +122,8 @@
 //SafeList<int> number = new SafeList<int>(new int[] {10,20,30});
 //Console.WriteLine(number.Get(2)); // 30 saccessfuly
 //Console.WriteLine(number.Get(10)); // defult 0 
+//defult string
+//SafeList<string> String = new SafeList<string>(new string[] { "Deadline", "delay", "degree" });
+//Console.WriteLine(String.Get(2)); // "degree" saccessfuly
+//Console.WriteLine(String.Get(10)); // defult null 
 #endregion
