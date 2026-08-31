@@ -110,3 +110,8 @@
 //order or = new order();
 //baseclass.Multetype<order>(or); //Ok 
 #endregion
+
+#region Q13
+// Q13: What does the 'default' keyword do in generics?
+// وظيفة ال default في ال generics  استرجاع القيمه الافتراضيه لكل نوع بيناتdefault(T) 
+#endregion
