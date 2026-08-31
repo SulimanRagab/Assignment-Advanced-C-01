@@ -144,3 +144,21 @@
 // ال Contravariance  بيستقبل T بيمشي عكس اتجاه الوراثه من الاب للأبن Base >> derived
 
 #endregion
+
+#region Q18
+//Q18: How do static members work in generic types?
+// ال Static Members ف Generic Class بتكون منفصله لكل نوع بينات مثال ...
+//using Assignment_Advanced_C__01;
+//conter<int>.Increment();
+//conter<int>.Increment();
+//conter<int>.Increment();
+//conter<int>.Increment();
+//Console.WriteLine(conter<int>.count); // 4
+//conter<string>.Increment();
+//conter<string>.Increment();
+//conter<string>.Increment();
+//conter<string>.Increment();
+//conter<string>.Increment();
+//conter<string>.Increment();
+//Console.WriteLine(conter<string>.count);//6 
+#endregion
