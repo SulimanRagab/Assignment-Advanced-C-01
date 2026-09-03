@@ -170,3 +170,21 @@
 //DerivedClass1 derivedClass1 = new DerivedClass1();
 // derivedClass1.Add(new order(1,"Ali")); 
 #endregion
+
+#region Q20
+//Q20: Complete Exercise - Create a generic Cache<TKey, TValue > with Add, Get, Remove, Contains, and expiration support.
+//using Assignment_Advanced_C__01;
+//using Assignment_Advanced_C__01.Q20CacheStorge;
+//Cache<int, order> cache = new Cache<int, order>();
+//cache.Add(1, new order(1, "Laptop",20000),TimeSpan.FromMinutes(5));
+//cache.Add(2, new order(2, "Iphone",11000),TimeSpan.FromMinutes(5));
+//cache.Add(3, new order(3, "Books-Volum a Sahih al-Bukhari",500),TimeSpan.FromMinutes(5));
+//cache.Add(4, new order(5, "Books-Volum a Sahih al-Bukhari-2",700),TimeSpan.FromMinutes(5));
+//cache.Add(5, new order(4, "Laptop-2",9000),TimeSpan.FromMinutes(5));
+//Console.WriteLine(cache.Get(1));
+//Console.WriteLine(cache.Get(2));
+//cache.remove(1);
+//Console.WriteLine(cache.Get(1));
+//Console.WriteLine(cache.contains(1));
+//Console.WriteLine(cache.contains(2)); 
+#endregion
